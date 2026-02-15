@@ -154,3 +154,10 @@ This project is intended for:
 - Academic study
 
 Do not use on systems you do not own or have permission to analyze.
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/400lbhacker/RAZORWIRE-LIVE/blob/main/RAZORWIRE_LIVE.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
